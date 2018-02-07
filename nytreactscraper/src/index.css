@@ -2,4 +2,21 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  text-align: center;
+}
+
+ h1,h3 {
+	color: white;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
+
+.navbar-header {
+	width: 100%;
+	text-align: center;
 }
